@@ -1,2 +1,2 @@
-# hellcrypto
+# hellocrypto
 Crypto knowledge
